@@ -1,0 +1,2 @@
+module ChybetaHelper
+end
